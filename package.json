@@ -1,6 +1,7 @@
 {
   "name": "developer-portfolio",
   "version": "0.1.0",
+  "home": "https://Mumtahina-766.github.io/Portfolio",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.2",
